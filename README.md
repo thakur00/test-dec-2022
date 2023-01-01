@@ -1,10 +1,10 @@
-# Simplest-Spring-Boot-Hello-World
-Simplest Spring Boot Hello World Example 
+# Spring-Boot-Hello-World
+Spring Boot Hello World Example 
 
 
 # Steps
 
-> git clone https://github.com/goxr3plus/Simplest-Spring-Boot-Hello-World.git
+> git clone https://github.com/thakur00/test-dec-2022.git
 
 > Run from your favourite IDE ( Eclipse , IntelliJ , Netbeans )
 
