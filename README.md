@@ -3,7 +3,6 @@ Spring Boot Hello World Example
 
 
 # Steps
-> run: mvn spring-boot:run
 
 > git clone https://github.com/thakur00/test-dec-2022.git
 
